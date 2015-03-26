@@ -1,1 +1,3 @@
-# makefile-for-systemc
+my first repo on github
+makefile-for-systemc
+
